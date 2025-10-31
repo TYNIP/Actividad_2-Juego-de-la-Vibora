@@ -1,6 +1,6 @@
 # Juego de la Vibora
 
-El repositorio contiene el archivo code.py, en donde se encuentra el juego de *Juego de la Vibora* de [Grant  Jenks](https://grantjenks.com/docs/freegames/cannon.html 
+El repositorio contiene el archivo code.py, en donde se encuentra el juego de *Juego de la Vibora* de [Grant  Jenks](https://grantjenks.com/docs/freegames/cannon.html) 
 
 Los cambios que realizaron fueron 4 en concreto:
 - La comida podrá moverse al azar un paso a la vez y no deberá de salirse de la ventana
